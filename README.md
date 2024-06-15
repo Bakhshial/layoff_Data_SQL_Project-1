@@ -5,7 +5,7 @@ This project involves the cleaning and exploratory data analysis (EDA) of a data
 
 Repository Structure
 Data_Cleaning_Process.sql: Contains the SQL script for cleaning the layoffs data.
-Exploratory_Data_Analysis.sql: Contains the SQL script for performing exploratory data analysis on the cleaned data.
+EDA_of_Layoff_Data.sql: Contains the SQL script for performing exploratory data analysis on the cleaned data.
 README.md: Provides an overview of the project, including instructions for running the scripts and descriptions of the data cleaning and EDA processes.
 
 Getting Started
@@ -16,7 +16,7 @@ MySQL client or any SQL IDE (e.g., MySQL Workbench) to execute the scripts.
 Setting Up
 Clone the Repository:
 
-git clone [https://github.com/yourusername/layoffs-analysis.git](https://github.com/Bakhshial/layoff_Data_SQL_Project-1.git)
+git clone
 cd layoffs-analysis
 
 Import the Database:
@@ -42,7 +42,7 @@ Execute the eda.sql script to perform EDA on the cleaned data:
 
 SQL
 Copy code
-source Exploratory_Data_Analysis.sql;
+sourceEDA_of_Layoff_Data.sql;
 This script will:
 
 Calculate basic statistics.
