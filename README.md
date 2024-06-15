@@ -16,7 +16,7 @@ MySQL client or any SQL IDE (e.g., MySQL Workbench) to execute the scripts.
 Setting Up
 Clone the Repository:
 
-git clone
+git clone https://github.com/Bakhshial/layoff_Data_SQL_Project-1.git
 cd layoffs-analysis
 
 Import the Database:
